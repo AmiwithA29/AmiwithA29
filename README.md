@@ -1,39 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">B.Tech CSE Student | iOS App Developer  | Prompt Engineering Enthusiast ✨</h3>
+<!-- Top Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3542,100:70a1ff&height=180&section=header&text=Sneha%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20iOS%20Developer%20%7C%20Prompt%20Engineer&descAlignY=58&descSize=16" width="100%" />
+</div>
 
-- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at **Galgotias University**
-- 📱 Passionate about **iOS App Development** & building clean user experiences
-- 🤖 Exploring **Prompt Engineering** & Generative AI workflows
-- 🎬 Content Creator & Video Editor for an **AI-focused Educational YouTube Channel**
-- 📫 Reach me at: **snehawsingh138@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<!-- Dynamic Typing Subtitle -->
+<p align="center">
+  <a href="https://github.com/AmiwithA29">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A1FF&center=true&vCenter=true&width=650&lines=Building+Intuitive+iOS+Applications+%EF%A3%BF;Crafting+Precision+AI+Prompts+%E2%9C%A8;Creating+%26+Editing+Educational+AI+Content+%F0%9F%8E%AC;B.Tech+CSE+Undergrad+%40+Galgotias+University+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-### 🌐 Connect with Me
-<p align="left">
+<!-- Social & Contact Badges -->
+<p align="center">
   <a href="https://youtube.com/@chandnii-c5?si=ndWRcN7jw-_qwy7t" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dusky__mellow?dmpr=MTNmNTV1amIrenR" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:snehawsingh138@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiwithA29&show_icons=true&theme=tokyonight" alt="Sneha's GitHub Stats" />
-</p>
+### 👨‍💻 About Me
+
+```swift
+struct Developer {
+    let name = "Sneha Kumari"
+    let role = "iOS App Developer & Prompt Engineering Enthusiast"
+    let education = "B.Tech in Computer Science & Engineering @ Galgotias University"
+    let creativeWork = "Content Creator & Video Editor (AI Educational YouTube Channel)"
+    let currentFocus = ["Swift & SwiftUI", "Generative AI & Prompt Engineering", "DSA"]
+}
